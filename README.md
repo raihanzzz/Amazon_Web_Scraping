@@ -21,21 +21,18 @@ Rather than relying on pre-cleaned datasets, I went straight to the source and b
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ├── 📁 data/
-│   ├── amazon_tshirt.html            
-│
-├── 📁 notebooks/               
-│   └── amazon_web_scraping.ipynb
-|
-├── 📁 notebooks/               
-│   └── amazon_web_scraping.ipynb 
-│
-├── 📁 assets/ 
-│   └── preview.png           
-│
-├── 📄 README.md 
+│   └── amazon_tshirt.html           # HTML snapshot of the Amazon product page
+
+├── 📁 notebooks/
+│   └── amazon_web_scraping.ipynb    # Main Jupyter notebook for scraping
+
+├── 📁 assets/
+│   └── preview.png                  # Screenshot or visual asset for README/demo
+
+├── 📄 README.md                     # Project documentation
 
 ```
 
